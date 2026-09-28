@@ -1,0 +1,1 @@
+Este archivo .PY consiste en un proyecto para la octava evaluación, "Programa en Python orientado e integrado con base de datos y librerías". Se debe descargar el archivo y ejecutar mediante Visual Studio Code
